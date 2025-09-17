@@ -26,6 +26,8 @@ Otherwise, install the versions for CPU
 pip install torch==2.8.0 torchvision==0.23.0 torchaudio==2.8.0
 ```
 
+## Example of a Query
+
 Here we show the output of the model when we ask for "Noticias de cine"
 
 <img src="News.png" alt="News" width="900" />
