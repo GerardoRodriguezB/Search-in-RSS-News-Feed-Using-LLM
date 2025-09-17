@@ -1,5 +1,7 @@
 # Search-in-RSS-News-Feed-Using-LLM
 
+<img src="llm.png" alt="INTFLOAT" width="500" />
+
 In this repository we use `intfloat/e5-base-v2` model to perform real-time semantic search over the BBC News RSS feed. The model, developed by Microsoft and released under the MIT license, is specialized for generating text embeddings that capture semantic meaning. This allows the system to identify and retrieve news articles that are semantically relevant to a user's input query, rather than relying solely on keyword matching.
 
 
@@ -24,7 +26,7 @@ Otherwise, install the versions for CPU
 pip install torch==2.8.0 torchvision==0.23.0 torchaudio==2.8.0
 ```
 
-
+<img src="News.png" alt="News" width="500" />
 
 
 
