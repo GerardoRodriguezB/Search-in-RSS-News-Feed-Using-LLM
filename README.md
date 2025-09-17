@@ -26,7 +26,7 @@ Otherwise, install the versions for CPU
 pip install torch==2.8.0 torchvision==0.23.0 torchaudio==2.8.0
 ```
 
-<img src="News.png" alt="News" width="500" />
+<img src="News.png" alt="News" width="900" />
 
 
 
